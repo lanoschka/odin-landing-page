@@ -101,3 +101,43 @@ header{
     justify-content: center;
     align-items: center;
 }
+
+/*here header styling ends*/
+
+.info{
+    margin:0;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom:100px;
+    
+}
+#info-text{
+   
+    font-size: 36px;
+    font-weight: 700;
+    color: #1F2937;
+    text-align: center;
+}
+.info-container{
+    display: flex;
+}
+.img-container{
+    text-align: center;
+    margin: 0 10px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.img{
+    
+    border-radius: 20px;
+    border:#3882F6 solid 4px;
+    height: 150px;
+    width: 150px;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.description,
+.img-description {
+    
+}

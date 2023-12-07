@@ -210,3 +210,18 @@ header{
    font-weight: bold;
    
 }
+/*here the action styling ends */
+
+footer{
+    background-color: #1F2937;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#footer{
+    
+    font-size: 18px;
+    color: #E5E7EB;
+}
